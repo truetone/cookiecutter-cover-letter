@@ -10,7 +10,7 @@
     "current_job": "Complete this sentence: 'I currently work at...'",
     "current_job_title": "What is your current job title?",
     "what_you_do": "Complete this phrase: 'where I do...",
-    "previous_job": "What was your previous job title?",
+    "previous_job": "Where did you work at your previous job?",
     "what_you_did": "Complete this phrase: 'where I did...'",
     "github_username": "Your github username",
     "_extensions": ["jinja2_time.TimeExtension"],
