@@ -22,6 +22,7 @@
     "industry": "The industry of the job, i.e., 'software development'",
     "industry_experience_years": "Number of years in said industry. (If under 10, use a word, i.e., 'three' instead of '3",
     "framework_experience_years": "Number of years using a framework like Flask or Symfony",
+    "framework_language": "What is the language of the two primary frameworks you use?",
     "framework_1": "Name of a framework you use, e.g., Flask",
     "framework_2": "Name of another framework you use, e.g., Webapp2",
     "expert_experience": "What are you an expert at? E.g., Python development",
