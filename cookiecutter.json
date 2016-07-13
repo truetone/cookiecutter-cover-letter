@@ -8,7 +8,7 @@
     "release_date": "{% now 'local' %}",
     "version": "0.1.0",
     "_extensions": ["jinja2_time.TimeExtension"],
-    "recipient: "Recipient name",
+    "recipient": "Recipient name",
     "company": "What is the name of the company where you are applying? E.g., Facebook",
     "job_title": "Position for which you are applying",
     "passion_1": "Something relevant to the job you are passionate about",
