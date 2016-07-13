@@ -1,5 +1,5 @@
 {
-    "full_name": "Your name",
+    "your_name": "Your name",
     "email": "Your address email (eq. you@example.com)",
     "github_username": "Your github username",
     "project_name": "Name of the project",
@@ -16,12 +16,15 @@
     "industry": "The industry of the job, i.e., 'software development'",
     "industry_experience_years": "Number of years in said industry. (If under 10, use a word, i.e., 'three' instead of '3",
     "framework_experience_1": "Number of years using a framework, i.e., Django",
-    "framework_experience_2": "Number of years using a second framework, i.e., Flask",
-    "framework_experience_3": "Number of years using a third framework, i.e., Webapp2",
+    "framework_1": "Number of years using a second framework, i.e., Flask",
+    "framework_2": "Number of years using a third framework, i.e., Webapp2",
+    "framework_3": "Number of years using a third framework, i.e., Webapp2",
     "expert_experience": "What are you an expert at? E.g., Python development",
     "expert_tech_1": "Name a tool that you use in the thing you're an expert at. E.g., HTML5",
     "expert_tech_2": "Name another tool that you use in the thing you're an expert at. E.g., CSS",
     "expert_tech_3": "Name one more tool that you use in the thing you're an expert at. E.g., JavaScript",
     "btw_tech": "Name another relevant thing you're good at. E.g., PHP",
-    "btw_tech_years_experience": "How long have you been doing that?"
+    "btw_tech_years_experience": "How long have you been doing that?",
+    "other_relavent_stuff_you_did": "What other relevant work have you done? The sentence will start iwth 'I'",
+    "other_sentence_about_relevant_experience": "Add one more full sentence about relevant experience",
 }

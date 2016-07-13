@@ -18,4 +18,4 @@ I look forward to talking to you about the position at {{company}}
 
 Best,
 
-{{full_name}} ({{email}})
+{{your_name}} ({{email}})
