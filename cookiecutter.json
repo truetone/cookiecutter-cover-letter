@@ -24,7 +24,6 @@
     "framework_experience_years": "Number of years using a framework like Flask or Symfony",
     "framework_1": "Number of years using a second framework, i.e., Flask",
     "framework_2": "Number of years using a third framework, i.e., Webapp2",
-    "framework_3": "Number of years using a third framework, i.e., Django",
     "expert_experience": "What are you an expert at? E.g., Python development",
     "expert_tech_1": "Name a tool that you use in the thing you're an expert at. E.g., HTML5",
     "expert_tech_2": "Name another tool that you use in the thing you're an expert at. E.g., CSS",
