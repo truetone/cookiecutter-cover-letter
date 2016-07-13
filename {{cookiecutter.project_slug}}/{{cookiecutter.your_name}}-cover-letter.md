@@ -5,7 +5,7 @@ I am extremely interested in the {{job_title}} position. I am passionate about
 {{industry_experience_years}} years. I have over {{framework_experience_years}}
 years experience working with various {{framework_language}} frameworks
 including {{framework_1}} and {{framework_2}}. I have expert
-experience in {{expert_experience}} using {{expert_tech_1}}, {{expert_tech_2}
+experience in {{expert_experience}} using {{expert_tech_1}}, {{expert_tech_2}}
 and {{expert_tech_3}}. I also have over {{btw_tech_years_experience}} years of
 experience working with {{btw_tech}}.
 
