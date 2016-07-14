@@ -1,4 +1,4 @@
-Dear {{cookiecutter.recipient}}}:
+Dear {{cookiecutter.recipient}}:
 
 I am extremely interested in the {{cookiecutter.job_title}} position. I am
 passionate about {{cookiecutter.passion_1}} and {{cookiecutter.passion_2}}. I
